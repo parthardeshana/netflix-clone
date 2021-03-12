@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/netflix-clone/static/css/main.d4f4f075.chunk.css",
-    "main.js": "/netflix-clone/static/js/main.061c6a12.chunk.js",
-    "main.js.map": "/netflix-clone/static/js/main.061c6a12.chunk.js.map",
-    "runtime-main.js": "/netflix-clone/static/js/runtime-main.6e366f69.js",
-    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.6e366f69.js.map",
-    "static/js/2.298c7e37.chunk.js": "/netflix-clone/static/js/2.298c7e37.chunk.js",
-    "static/js/2.298c7e37.chunk.js.map": "/netflix-clone/static/js/2.298c7e37.chunk.js.map",
-    "static/js/3.c7d4bc68.chunk.js": "/netflix-clone/static/js/3.c7d4bc68.chunk.js",
-    "static/js/3.c7d4bc68.chunk.js.map": "/netflix-clone/static/js/3.c7d4bc68.chunk.js.map",
+    "main.css": "/netflix-clone/static/css/main.f3e9d7d7.chunk.css",
+    "main.js": "/netflix-clone/static/js/main.ea49cafa.chunk.js",
+    "main.js.map": "/netflix-clone/static/js/main.ea49cafa.chunk.js.map",
+    "runtime-main.js": "/netflix-clone/static/js/runtime-main.5975c92f.js",
+    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.5975c92f.js.map",
+    "static/js/2.8bcdf7dd.chunk.js": "/netflix-clone/static/js/2.8bcdf7dd.chunk.js",
+    "static/js/2.8bcdf7dd.chunk.js.map": "/netflix-clone/static/js/2.8bcdf7dd.chunk.js.map",
+    "static/js/3.48700f21.chunk.js": "/netflix-clone/static/js/3.48700f21.chunk.js",
+    "static/js/3.48700f21.chunk.js.map": "/netflix-clone/static/js/3.48700f21.chunk.js.map",
     "index.html": "/netflix-clone/index.html",
-    "static/css/main.d4f4f075.chunk.css.map": "/netflix-clone/static/css/main.d4f4f075.chunk.css.map",
-    "static/js/2.298c7e37.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.298c7e37.chunk.js.LICENSE.txt",
+    "static/css/main.f3e9d7d7.chunk.css.map": "/netflix-clone/static/css/main.f3e9d7d7.chunk.css.map",
+    "static/js/2.8bcdf7dd.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.8bcdf7dd.chunk.js.LICENSE.txt",
     "static/media/netflix-logo.b39480d0.png": "/netflix-clone/static/media/netflix-logo.b39480d0.png",
     "static/media/smiley-face.60f3a3fa.svg": "/netflix-clone/static/media/smiley-face.60f3a3fa.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e366f69.js",
-    "static/js/2.298c7e37.chunk.js",
-    "static/css/main.d4f4f075.chunk.css",
-    "static/js/main.061c6a12.chunk.js"
+    "static/js/runtime-main.5975c92f.js",
+    "static/js/2.8bcdf7dd.chunk.js",
+    "static/css/main.f3e9d7d7.chunk.css",
+    "static/js/main.ea49cafa.chunk.js"
   ]
 }
