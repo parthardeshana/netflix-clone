@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.navbar {
+	display: flex;
+	justify-content: space-between;
+}
+.logo {
+	max-height: 70px;
+    padding: 10px 30px;
+}
+.netflix-logo {
+	width: 250px;
+	max-height: 90px;
+}
+.smiley {
+	width: 100px;
+}

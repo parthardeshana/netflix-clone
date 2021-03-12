@@ -25,7 +25,7 @@
 	transform: scale(1.08);
 }
 .row_posterLarge {
-	max-height: 150px;
+	max-height: 200px;
 	transition: transform 600ms;
 }
 .row_posterLarge:hover {
